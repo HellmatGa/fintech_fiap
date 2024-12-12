@@ -1,0 +1,65 @@
+body {
+    background-color: #ff6600;
+}
+
+.navbar-brand {
+    background-color: #06045e;
+    color: #ff6600;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    
+}
+
+.navbar {
+    background-color: #ff6600;
+    color: #03f851;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.collapse {
+    background-color: #ffffff;
+    color:#ffffff;
+}
+
+.nav-item {
+    background-color: #ffffff;
+}
+
+.jumbotron {
+    background-color: #ff6600;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+    width: 100%;
+    height: 550px;
+    margin: 0;
+    
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jumbotron .btn-primary {
+    background-color: #067af7;
+    border-color: #03bffd;
+    position: center;
+}
+
+footer {
+    background-color: #06045e;
+    color: #ffffff; 
+    bottom: 0;
+    text-align: center; 
+    padding: 0; 
+    width: 100%; 
+    position: absolute; 
+    bottom: 0; 
+    font-size: 18px;
+    height: 80px;
+}
